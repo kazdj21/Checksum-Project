@@ -1,0 +1,10 @@
+info:
+  namespace: rpgbundle_vol2
+items:
+  rpgbundle_vol2_bow1:
+    display_name: rpgbundle_vol2_bow1
+    resource:
+      material: BOW
+      generate: True
+      textures:
+      - bow/bow.png

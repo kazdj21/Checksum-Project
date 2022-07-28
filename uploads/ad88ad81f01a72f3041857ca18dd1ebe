@@ -1,0 +1,178 @@
+info:
+  namespace: rpgbundle_vol2
+items:
+  rpgbundle_vol2_item1:
+    display_name: rpgbundle_vol2_item1
+    resource:
+      material: Paper
+      generate: True
+      textures:
+      - paper/item1.png
+  rpgbundle_vol2_item10:
+    display_name: rpgbundle_vol2_item10
+    resource:
+      material: Paper
+      generate: True
+      textures:
+      - paper/item10.png
+  rpgbundle_vol2_item11:
+    display_name: rpgbundle_vol2_item11
+    resource:
+      material: Paper
+      generate: True
+      textures:
+      - paper/item11.png
+  rpgbundle_vol2_item12:
+    display_name: rpgbundle_vol2_item12
+    resource:
+      material: Paper
+      generate: True
+      textures:
+      - paper/item12.png
+  rpgbundle_vol2_item13:
+    display_name: rpgbundle_vol2_item13
+    resource:
+      material: Paper
+      generate: True
+      textures:
+      - paper/item13.png
+  rpgbundle_vol2_item14:
+    display_name: rpgbundle_vol2_item14
+    resource:
+      material: Paper
+      generate: True
+      textures:
+      - paper/item14.png
+  rpgbundle_vol2_item15:
+    display_name: rpgbundle_vol2_item15
+    resource:
+      material: Paper
+      generate: True
+      textures:
+      - paper/item15.png
+  rpgbundle_vol2_item16:
+    display_name: rpgbundle_vol2_item16
+    resource:
+      material: Paper
+      generate: True
+      textures:
+      - paper/item16.png
+  rpgbundle_vol2_item17:
+    display_name: rpgbundle_vol2_item17
+    resource:
+      material: Paper
+      generate: True
+      textures:
+      - paper/item17.png
+  rpgbundle_vol2_item18:
+    display_name: rpgbundle_vol2_item18
+    resource:
+      material: Paper
+      generate: True
+      textures:
+      - paper/item18.png
+  rpgbundle_vol2_item19:
+    display_name: rpgbundle_vol2_item19
+    resource:
+      material: Paper
+      generate: True
+      textures:
+      - paper/item19.png
+  rpgbundle_vol2_item2:
+    display_name: rpgbundle_vol2_item2
+    resource:
+      material: Paper
+      generate: True
+      textures:
+      - paper/item2.png
+  rpgbundle_vol2_item20:
+    display_name: rpgbundle_vol2_item20
+    resource:
+      material: Paper
+      generate: True
+      textures:
+      - paper/item20.png
+  rpgbundle_vol2_item3:
+    display_name: rpgbundle_vol2_item3
+    resource:
+      material: Paper
+      generate: True
+      textures:
+      - paper/item3.png
+  rpgbundle_vol2_item4:
+    display_name: rpgbundle_vol2_item4
+    resource:
+      material: Paper
+      generate: True
+      textures:
+      - paper/item4.png
+  rpgbundle_vol2_item5:
+    display_name: rpgbundle_vol2_item5
+    resource:
+      material: Paper
+      generate: True
+      textures:
+      - paper/item5.png
+  rpgbundle_vol2_item6:
+    display_name: rpgbundle_vol2_item6
+    resource:
+      material: Paper
+      generate: True
+      textures:
+      - paper/item6.png
+  rpgbundle_vol2_item7:
+    display_name: rpgbundle_vol2_item7
+    resource:
+      material: Paper
+      generate: True
+      textures:
+      - paper/item7.png
+  rpgbundle_vol2_item8:
+    display_name: rpgbundle_vol2_item8
+    resource:
+      material: Paper
+      generate: True
+      textures:
+      - paper/item8.png
+  rpgbundle_vol2_item9:
+    display_name: rpgbundle_vol2_item9
+    resource:
+      material: Paper
+      generate: True
+      textures:
+      - paper/item9.png
+  rpgbundle_vol2_shield1:
+    display_name: rpgbundle_vol2_shield1
+    resource:
+      material: Paper
+      generate: True
+      textures:
+      - paper/shield1.png
+  rpgbundle_vol2_shield2:
+    display_name: rpgbundle_vol2_shield2
+    resource:
+      material: Paper
+      generate: True
+      textures:
+      - paper/shield2.png
+  rpgbundle_vol2_shield3:
+    display_name: rpgbundle_vol2_shield3
+    resource:
+      material: Paper
+      generate: True
+      textures:
+      - paper/shield3.png
+  rpgbundle_vol2_shield4:
+    display_name: rpgbundle_vol2_shield4
+    resource:
+      material: Paper
+      generate: True
+      textures:
+      - paper/shield4.png
+  rpgbundle_vol2_shield5:
+    display_name: rpgbundle_vol2_shield5
+    resource:
+      material: Paper
+      generate: True
+      textures:
+      - paper/shield5.png

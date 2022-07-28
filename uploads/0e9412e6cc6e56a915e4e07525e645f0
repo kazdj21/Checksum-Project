@@ -1,0 +1,52 @@
+info:
+  namespace: rpgbundle_vol2
+items:
+  rpgbundle_vol2_axe1:
+    display_name: rpgbundle_vol2_axe1
+    resource:
+      material: diamond_axe
+      generate: True
+      textures:
+      - axe/axe1.png
+  rpgbundle_vol2_axe2:
+    display_name: rpgbundle_vol2_axe2
+    resource:
+      material: diamond_axe
+      generate: True
+      textures:
+      - axe/axe2.png
+  rpgbundle_vol2_axe3:
+    display_name: rpgbundle_vol2_axe3
+    resource:
+      material: diamond_axe
+      generate: True
+      textures:
+      - axe/axe3.png
+  rpgbundle_vol2_axe4:
+    display_name: rpgbundle_vol2_axe4
+    resource:
+      material: diamond_axe
+      generate: True
+      textures:
+      - axe/axe4.png
+  rpgbundle_vol2_axe5:
+    display_name: rpgbundle_vol2_axe5
+    resource:
+      material: diamond_axe
+      generate: True
+      textures:
+      - axe/axe5.png
+  rpgbundle_vol2_axe6:
+    display_name: rpgbundle_vol2_axe6
+    resource:
+      material: diamond_axe
+      generate: True
+      textures:
+      - axe/axe6.png
+  rpgbundle_vol2_axe7:
+    display_name: rpgbundle_vol2_axe7
+    resource:
+      material: diamond_axe
+      generate: True
+      textures:
+      - axe/axe7.png

@@ -1,0 +1,122 @@
+info:
+  namespace: rpgbundle_vol2
+items:
+  rpgbundle_vol2_sword_weapon1:
+    display_name: rpgbundle_vol2_sword_weapon1
+    resource:
+      material: diamond_sword
+      generate: True
+      textures:
+      - sword/weapon1.png
+  rpgbundle_vol2_sword_weapon10:
+    display_name: rpgbundle_vol2_sword_weapon10
+    resource:
+      material: diamond_sword
+      generate: True
+      textures:
+      - sword/weapon10.png
+  rpgbundle_vol2_sword_weapon11:
+    display_name: rpgbundle_vol2_sword_weapon11
+    resource:
+      material: diamond_sword
+      generate: True
+      textures:
+      - sword/weapon11.png
+  rpgbundle_vol2_sword_weapon12:
+    display_name: rpgbundle_vol2_sword_weapon12
+    resource:
+      material: diamond_sword
+      generate: True
+      textures:
+      - sword/weapon12.png
+  rpgbundle_vol2_sword_weapon13:
+    display_name: rpgbundle_vol2_sword_weapon13
+    resource:
+      material: diamond_sword
+      generate: True
+      textures:
+      - sword/weapon13.png
+  rpgbundle_vol2_sword_weapon14:
+    display_name: rpgbundle_vol2_sword_weapon14
+    resource:
+      material: diamond_sword
+      generate: True
+      textures:
+      - sword/weapon14.png
+  rpgbundle_vol2_sword_weapon15:
+    display_name: rpgbundle_vol2_sword_weapon15
+    resource:
+      material: diamond_sword
+      generate: True
+      textures:
+      - sword/weapon15.png
+  rpgbundle_vol2_sword_weapon16:
+    display_name: rpgbundle_vol2_sword_weapon16
+    resource:
+      material: diamond_sword
+      generate: True
+      textures:
+      - sword/weapon16.png
+  rpgbundle_vol2_sword_weapon17:
+    display_name: rpgbundle_vol2_sword_weapon17
+    resource:
+      material: diamond_sword
+      generate: True
+      textures:
+      - sword/weapon17.png
+  rpgbundle_vol2_sword_weapon2:
+    display_name: rpgbundle_vol2_sword_weapon2
+    resource:
+      material: diamond_sword
+      generate: True
+      textures:
+      - sword/weapon2.png
+  rpgbundle_vol2_sword_weapon3:
+    display_name: rpgbundle_vol2_sword_weapon3
+    resource:
+      material: diamond_sword
+      generate: True
+      textures:
+      - sword/weapon3.png
+  rpgbundle_vol2_sword_weapon4:
+    display_name: rpgbundle_vol2_sword_weapon4
+    resource:
+      material: diamond_sword
+      generate: True
+      textures:
+      - sword/weapon4.png
+  rpgbundle_vol2_sword_weapon5:
+    display_name: rpgbundle_vol2_sword_weapon5
+    resource:
+      material: diamond_sword
+      generate: True
+      textures:
+      - sword/weapon5.png
+  rpgbundle_vol2_sword_weapon6:
+    display_name: rpgbundle_vol2_sword_weapon6
+    resource:
+      material: diamond_sword
+      generate: True
+      textures:
+      - sword/weapon6.png
+  rpgbundle_vol2_sword_weapon7:
+    display_name: rpgbundle_vol2_sword_weapon7
+    resource:
+      material: diamond_sword
+      generate: True
+      textures:
+      - sword/weapon7.png
+  rpgbundle_vol2_sword_weapon8:
+    display_name: rpgbundle_vol2_sword_weapon8
+    resource:
+      material: diamond_sword
+      generate: True
+      textures:
+      - sword/weapon8.png
+  rpgbundle_vol2_sword_weapon9:
+    display_name: rpgbundle_vol2_sword_weapon9
+    resource:
+      material: diamond_sword
+      generate: True
+      textures:
+      - sword/weapon9.png

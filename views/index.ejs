@@ -1,0 +1,53 @@
+<%- include("partials/header") -%>
+
+  <div class="container-fluid" id="main">
+    <nav class="navbar">
+      <div class="container-fluid col-lg-12 col-sm-12" 
+        style="justify-content: center;">
+        <a><h1 id="header" class="navbar-brand">Checksum Checker</h1>
+        </a>
+      </div>
+    </nav>
+    <div id="form" class="container-fluid col-lg-12 col-sm-12" 
+      style="background-color: #C9BBCF; padding-top: 2em; padding-bottom: 2em;">
+      <p><%= message %></p>
+      <form action="/" method="POST" enctype="multipart/form-data" 
+       style="padding: 0;">
+        <div style="display: flex; justify-content: space-around; 
+          align-items: center;">
+          <div class="form-check">
+            <input type="radio" id="md5" name="algorithm" value="MD5"     
+             class="form-check-input">
+            <label for="md5" class="form-check-label" style="font-family: 
+              Inter, sans-serif;">MD5</label>
+          </div>
+          <div class="form-check">
+            <input type="radio" id="sha256" name="algorithm" 
+             value="SHA256" 
+              class="form-check-input">
+            <label for="sha256" class="form-check-label" style="font-family: 
+              Inter, sans-serif;">SHA256</label>
+          </div>          
+        </div>
+        <div style="display: flex; justify-content: space-evenly; align- 
+          items: center;">
+          <label class="custom-file-input">
+            <p class="btn btn-outline-primary" id="uploadbtn1">Upload File</p>
+            <input type="file" name="files" id="file1">
+          </label>
+          <label class="custom-file-input">
+            <p class="btn btn-outline-primary" id="uploadbtn1">Upload File</p>
+            <input type="file" name="files" id="file2">
+          </label>         
+        </div>
+        <div style="display: flex; justify-content: center;">
+          <input type="submit" class="btn btn-primary
+            "> 
+        </div>
+
+      </form>  
+    </div>
+
+  </div>
+
+<%- include("partials/footer") -%>

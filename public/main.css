@@ -1,0 +1,95 @@
+*, .container-fluid {
+  
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  
+}
+
+html, body, #main {
+  
+  height: 100%;
+  width: 100%;
+/*   background-color: #898AA6;  */
+  background: linear-gradient(#D6EFED, #898AA6);
+}
+
+#main {
+
+  padding-top: 15%;
+  
+}
+
+/* #main {
+
+  background-color: #D6EFED; 
+  
+}
+ */
+.navbar {
+
+  background-color: #D6EFED;
+  margin-top: 5%;
+  margin-left: 30%;
+  margin-right: 30%;
+  border-radius: 10px;
+  box-shadow: 1px 1px #898AA6;
+  
+}
+
+h1#header {
+
+  font-weight: 500;
+  font-size: 1.5rem;
+  color: #898AA6;
+  font-family: 'Playfair Display', serif;
+  
+}
+
+#form {
+
+  width: 40%;
+/*   margin-left: 30%; */
+  margin: 0 auto;
+  border-radius: 10px;
+  box-shadow: 1px 1px #898AA6;
+  padding-top: 1;
+  padding-bottom: 1;
+  
+}
+
+input[type=file] {
+
+  display: none;
+    
+}
+
+input[type=submit] {
+
+  padding: 0.5em 1.2em;
+  border: 0;
+  
+}
+
+
+@media screen and (max-width: 800px) {
+
+  .navbar {
+    
+    margin-top: 5%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    
+  }
+
+  #form {
+
+    width: 95%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    padding-top: 1;
+    padding-bottom: 1;
+    
+  }
+  
+}
